@@ -1,4 +1,4 @@
-title: Casper T. Madsen
+title: Researcher
 url: "https://thornemadsen.github.io"
 baseurl: "/"
 
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://thornemadsen.github.io"
+footer_text: "Page design by me :)"
 
 sass:
     style: compressed
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "https://thornemadsen.github.io"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
