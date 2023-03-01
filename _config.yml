@@ -1,4 +1,4 @@
-title: Researcher
+title: Casper T. Madsen
 url: "https://thornemadsen.github.io"
 baseurl: "/"
 
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://thornemadsen.github.io"
-footer_text: "Page design by me :)"
+footer_text: "Page design by yours truly"
 
 sass:
     style: compressed

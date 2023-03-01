@@ -3,24 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
 ## Mailing Address
 
-> 221B, Baker Street
+> Julius Bloms Gade 31, 1 tv
 >
-> London
+> 2200 København N
 >
-> United Kingdom
+> Danmark
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+* [LinkedIn](https://www.linkedin.com/in/casper-thorne-madsen-62029a145/)
+* [Github](https://github.com/ThorneMadsen)
+* Email: [ThorneMadsen@hotmail.com](mailto:ThorneMadsen@hotmail.com)
+* Phone: [+45-51181314](tel:+45-51181314)
