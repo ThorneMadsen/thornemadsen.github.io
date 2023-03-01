@@ -18,6 +18,8 @@ Coming soon!
 
 ## Skills
 
+**Languages**
 C, C++, C#, F#, Java, Python, SQL
 
-Git
+**General software**
+Git/GitHub, Latex
