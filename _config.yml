@@ -1,6 +1,6 @@
 title: Casper T. Madsen
 url: "https://thornemadsen.github.io/"
-baseurl: 
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
