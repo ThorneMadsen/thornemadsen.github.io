@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="pp.jpg">
+<img class="profile-picture" src="pp2.jpg">
 
 My name is Casper and I studied Computer Science at the University of Copenhagen. 
 
